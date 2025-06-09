@@ -3,6 +3,7 @@
 ## Como Fazer Funcionar com o Picamera2 e Opencv
 
 **1. Instalação e Configuração da Câmera**
+
 Antes de usar a câmera em seu código, é importante que o hardware e os drivers estejam corretamente instalados e configurados 
 
 - Intale o driver da câmera: A arducam fornece um script de instalação para os drivers necessários. Baixe e execute o script para instalar o suporte da libcamera e o driver do kernel para a IMX519
