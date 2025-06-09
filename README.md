@@ -2,8 +2,6 @@
 
 ## Como Fazer Funcionar com o Picamera2 e Opencv
 
-Para que a câmera arducam IMX519 funcione com o OpenCv, você precisará seguir estes passos, que envolvem a instalação dos drivers corretos e uso da biblioteca PiCamera2.
-
 **1. Instalação e Configuração da Câmera**
 Antes de usar a câmera em seu código, é importante que o hardware e os drivers estejam corretamente instalados e configurados 
 
